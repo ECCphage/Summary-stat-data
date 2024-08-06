@@ -120,5 +120,7 @@ CPO439,2,2,2,2
 CPO447,0,1,1,1
 CPO448,0,1,1,1
 ,,,,
-,,,,65
+0 = no lysis
+1 = partial lysis (hazy zone of lysis)
+2 = complete lysis 
 ,,,,54
