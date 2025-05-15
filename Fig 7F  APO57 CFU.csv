@@ -1,0 +1,73 @@
+﻿Mice,Group,Cocktail,Sample,CFU
+M1,Control,Control,Blood,1.20E+05
+M2,Control,Control,Blood,2.60E+06
+M3,Control,Control,Blood,8.80E+07
+M4,Control,Control,Blood,4.10E+07
+M5,Control,Control,Blood,1.70E+08
+M6,Control,Control,Blood,6.00E+08
+M7,Treatment ,Cocktail-V1,Blood,5.50E+00
+M8,Treatment ,Cocktail-V1,Blood,4.50E+04
+M9,Treatment ,Cocktail-V1,Blood,5.50E+00
+M10,Treatment ,Cocktail-V1,Blood,1.80E+05
+M11,Treatment ,Cocktail-V1,Blood,2.10E+04
+M12,Treatment ,Cocktail-V1,Blood,2.40E+04
+M13,Treatment ,Entelli-02,Blood,1.00E+01
+M14,Treatment ,Entelli-02,Blood,2.40E+05
+M15,Treatment ,Entelli-02,Blood,2.50E+04
+M16,Treatment ,Entelli-02,Blood,4.00E+04
+M17,Treatment ,Entelli-02,Blood,2.10E+05
+M18,Treatment ,Entelli-02,Blood,1.50E+05
+M1,Control,Control,Liver,4.00E+07
+M2,Control,Control,Liver,2.89E+08
+M3,Control,Control,Liver,1.56E+08
+M4,Control,Control,Liver,2.21E+08
+M5,Control,Control,Liver,1.55E+08
+M6,Control,Control,Liver,3.05E+08
+M7,Treatment ,Cocktail-V1,Liver,1.63E+05
+M8,Treatment ,Cocktail-V1,Liver,6.13E+04
+M9,Treatment ,Cocktail-V1,Liver,3.45E+01
+M10,Treatment ,Cocktail-V1,Liver,5.81E+05
+M11,Treatment ,Cocktail-V1,Liver,3.79E+05
+M12,Treatment ,Cocktail-V1,Liver,5.19E+05
+M13,Treatment ,Entelli-02,Liver,4.56E+05
+M14,Treatment ,Entelli-02,Liver,2.90E+05
+M15,Treatment ,Entelli-02,Liver,3.23E+05
+M16,Treatment ,Entelli-02,Liver,1.46E+05
+M17,Treatment ,Entelli-02,Liver,8.13E+04
+M18,Treatment ,Entelli-02,Liver,5.44E+04
+M1,Control,Control,Kidney,1.75E+07
+M2,Control,Control,Kidney,1.12E+08
+M3,Control,Control,Kidney,2.84E+08
+M4,Control,Control,Kidney,2.58E+07
+M5,Control,Control,Kidney,1.40E+08
+M6,Control,Control,Kidney,2.79E+08
+M7,Treatment ,Cocktail-V1,Kidney,2.40E+05
+M8,Treatment ,Cocktail-V1,Kidney,1.35E+05
+M9,Treatment ,Cocktail-V1,Kidney,6.67E+01
+M10,Treatment ,Cocktail-V1,Kidney,7.62E+04
+M11,Treatment ,Cocktail-V1,Kidney,1.18E+05
+M12,Treatment ,Cocktail-V1,Kidney,1.87E+05
+M13,Treatment ,Entelli-02,Kidney,1.25E+06
+M14,Treatment ,Entelli-02,Kidney,3.11E+05
+M15,Treatment ,Entelli-02,Kidney,1.50E+05
+M16,Treatment ,Entelli-02,Kidney,1.71E+05
+M17,Treatment ,Entelli-02,Kidney,1.26E+05
+M18,Treatment ,Entelli-02,Kidney,2.24E+05
+M1,Control,Control,Spleen,9.70E+07
+M2,Control,Control,Spleen,7.00E+08
+M3,Control,Control,Spleen,1.03E+09
+M4,Control,Control,Spleen,3.56E+08
+M5,Control,Control,Spleen,7.09E+08
+M6,Control,Control,Spleen,2.64E+09
+M7,Treatment ,Cocktail-V1,Spleen,1.90E+05
+M8,Treatment ,Cocktail-V1,Spleen,2.89E+06
+M9,Treatment ,Cocktail-V1,Spleen,7.69E+01
+M10,Treatment ,Cocktail-V1,Spleen,2.00E+06
+M11,Treatment ,Cocktail-V1,Spleen,1.00E+06
+M12,Treatment ,Cocktail-V1,Spleen,7.27E+05
+M13,Treatment ,Entelli-02,Spleen,2.91E+06
+M14,Treatment ,Entelli-02,Spleen,3.60E+06
+M15,Treatment ,Entelli-02,Spleen,1.64E+06
+M16,Treatment ,Entelli-02,Spleen,4.00E+06
+M17,Treatment ,Entelli-02,Spleen,3.27E+06
+M18,Treatment ,Entelli-02,Spleen,6.67E+05
